@@ -1,0 +1,17 @@
+{
+"status": "ok",
+"totalResults": 1,
+"articles": [
+{
+"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "gkay@insider.com (Grace Kay)",
+"title": "A company hacked into a Tesla Model S Plaid to hit a record 216 miles per hour",
+"description": "The nearly $130,000 Tesla model has not previously been reported to have run faster than 200 miles per hour.",
+"url": "https://www.businessinsider.com/hacked-tesla-model-s-plaid-hits-record-216-mph-2022-7",
+"urlToImage": "https://i.insider.com/60d1f07dc097fe00185a22e4?width=1200&format=jpeg",
+"publishedAt": "2022-07-01T15:22:14Z",
+"content": "A Tesla Model S Plaid hit its fastest speed on record Thursday after a software company hacked into the vehicle's software restrictions.\r\nGuillaume André, the CEO of Ingenext, took his Model .."
+}]}
